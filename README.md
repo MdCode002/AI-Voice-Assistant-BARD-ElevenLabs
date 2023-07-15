@@ -14,7 +14,7 @@ Before running the project, ensure that you have the following requirements met:
 
 - Python 3.x installed
 - `bardapi` and `elevenlabs` libraries installed
-- A valid API key for the `bardapi` library and elevenlabs .
+- A valid API key for the `bardapi` library and `elevenlabs` .
 - Installed ffmpeg
 
 ## Installation
@@ -23,3 +23,14 @@ Before running the project, ensure that you have the following requirements met:
 
    ```shell
    git clone https://github.com/your-username/your-project.git
+2. Install the required libraries:
+   ```shell
+   pip install bardapi elevenlabs
+3. Install ffmpeg
+   ```shell
+   choco install ffmpeg
+4. Set up your api key
+   -Open the project file main.py.
+   -Replace set_api_key("YOUR-API-KEY") with your API key obtained from ELEVENLABS.
+   -Update the line os.environ['_BARD_API_KEY'] = "YOUR-API-KEY" with your Bard API key.
+   
