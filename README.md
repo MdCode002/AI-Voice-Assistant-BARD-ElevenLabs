@@ -11,10 +11,10 @@
 <p align="center">
        <h2 align="center">Prerequisites</h2>
     <b>
-    Before running the project, ensure that you have the following requirements met:
-    - Python 3.x installed
-    - bardapi and elevenlabs libraries installed
-    - A valid API key for the bardapi library and ElevenLabs.
-    - Installed ffmpeg
+    Before running the project, ensure that you have the following requirements met: <b>
+    - Python 3.x installed <b>
+    - bardapi and elevenlabs libraries installed <b>
+    - A valid API key for the bardapi library and ElevenLabs. <b>
+    - Installed ffmpeg <b>
   </b>  
 </p>
