@@ -15,14 +15,14 @@ Before running the project, ensure that you have the following requirements met:
 - Python 3.x installed
 - `bardapi` and `elevenlabs` libraries installed
 - A valid API key for the `bardapi` library and `elevenlabs` .
-- Installed ffmpeg
+- Install ffmpeg
 
 ## Installation
 
 1. Clone the project repository:
 
    ```shell
-   git clone https://github.com/your-username/your-project.git
+   git clone https://github.com/Medzo02/-AI-Voice-Assistant-BARD-ElevenLabs.git
 2. Install the required libraries:
    ```shell
    pip install bardapi elevenlabs
