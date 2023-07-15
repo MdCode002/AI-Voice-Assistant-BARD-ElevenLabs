@@ -22,7 +22,7 @@ Before running the project, ensure that you have the following requirements met:
 1. Clone the project repository:
 
    ```shell
-   git clone https://github.com/Medzo02/-AI-Voice-Assistant-BARD-ElevenLabs.git
+   git clone https://github.com/Medzo02/AI-Voice-Assistant-BARD-ElevenLabs.git
 2. Install the required libraries:
    ```shell
    pip install bardapi elevenlabs
