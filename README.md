@@ -30,7 +30,7 @@ Before running the project, ensure that you have the following requirements met:
    ```shell
    choco install ffmpeg
 4. Set up your api key
-   -Open the project file main.py.
-   -Replace set_api_key("YOUR-API-KEY") with your API key obtained from ELEVENLABS.
-   -Update the line os.environ['_BARD_API_KEY'] = "YOUR-API-KEY" with your Bard API key.
+   - Open the project file main.py.
+   - Replace set_api_key("YOUR-API-KEY") with your API key obtained from ELEVENLABS.
+   - Update the line os.environ['_BARD_API_KEY'] = "YOUR-API-KEY" with your Bard API key.
    
