@@ -10,8 +10,7 @@ run = True
 while run:
     input_text = input("\n\nEntrer votre message : ")
 
-    input_text = input_text + \
-        " (La réponse doit être courte et précise, sans utiliser les symboles * et -.)"
+    input_text = input_text + " (La réponse doit être courte et précise, sans utiliser les symboles * et -.)"
     print('\n merci de patienter \n')
     text = Bard().get_answer(input_text)['content']
 
