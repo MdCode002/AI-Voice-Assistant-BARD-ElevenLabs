@@ -7,7 +7,7 @@
 This project utilizes the `bardapi` and `elevenlabs` libraries to interact with an AI model and generate and play audio responses. The purpose of the project is to provide short and precise answers to user input.
 
 ## Author
- - Mouhamed Diouf : [@Medzo02](https://github.com/Medzo02)
+ - Mouhamed Diouf : [@MdCode002](https://github.com/MdCode002)
 ## Prerequisites
 
 Before running the project, ensure that you have the following requirements met:
